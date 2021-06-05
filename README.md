@@ -16,11 +16,16 @@ Folder A/ <br>
 result_folder/
 
 ## Run
-` pip install PyPDF2`
-<br>
-<br>
-`python pdfmerger.py`
 
+```bash
+pip install -r requirements.txt
+```
+<br>
+<br>
+
+```bash
+python pdfmerger.py
+```
 With this select folders from GUI and Merge the pdfs
 
 
