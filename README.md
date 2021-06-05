@@ -8,12 +8,12 @@ Folder A/ <br>
 ├ file2.pdf <br>
 ├ file3.pdf <br>
 <br>
-Folder A/ <br>
+Folder B/ <br>
 ├ file1_A.pdf <br>
 ├ file2_A.pdf <br>
 ├ file3_A.pdf <br>
 
-result_folder/
+result_folder
 
 ## Installing Dependencies
 
