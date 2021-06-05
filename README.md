@@ -15,7 +15,7 @@ Folder B/ <br>
 
 result_folder
 
-![PdfMerger](imgs/pdfmerger_img.jpg)
+![PdfMerger](imgs/pdfmerger_img.png)
 
 ## Installing Dependencies
 
