@@ -15,6 +15,8 @@ Folder B/ <br>
 
 result_folder
 
+![PdfMerger](imgs/pdfmerger_img.jpg)
+
 ## Installing Dependencies
 
 ```bash
