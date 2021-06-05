@@ -20,11 +20,12 @@ result_folder/
 pip install -r requirements.txt
 ```
 <br>
-## Run
 <br>
+## Run
 ```bash
 python pdfmerger.py
 ```
+<br>
 With this select folders from GUI and Merge the pdfs
 
 
