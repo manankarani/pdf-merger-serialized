@@ -15,7 +15,7 @@ Folder A/ <br>
 
 result_folder/
 
-## Installing Dependencies
+### Installing Dependencies
 ```bash
 pip install -r requirements.txt
 ```
