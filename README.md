@@ -21,7 +21,6 @@ pip install -r requirements.txt
 ```
 <br>
 <br>
-## Run
 ```bash
 python pdfmerger.py
 ```
