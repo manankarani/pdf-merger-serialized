@@ -15,12 +15,14 @@ Folder A/ <br>
 
 result_folder/
 
-### Installing Dependencies
+## Run
+
 ```bash
 pip install -r requirements.txt
 ```
 <br>
 <br>
+
 ```bash
 python pdfmerger.py
 ```
